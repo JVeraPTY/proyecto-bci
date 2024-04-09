@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<proyecto-bci>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.smartjob.App",
+            "projectName": "proyecto-bci",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
