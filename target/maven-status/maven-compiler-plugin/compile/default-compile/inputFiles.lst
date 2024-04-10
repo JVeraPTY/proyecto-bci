@@ -1,5 +1,7 @@
 /home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/UserRepository.java
+/home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/SwaggerConfig.java
 /home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/User.java
+/home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/GlobalExceptionHandler.java
 /home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/App.java
 /home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/Phone.java
 /home/jose/Documents/SmartJob/proyecto-bci/src/main/java/com/smartjob/UserController.java
